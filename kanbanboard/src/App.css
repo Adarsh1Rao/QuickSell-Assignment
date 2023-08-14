@@ -1,0 +1,29 @@
+
+.displayDropdown {
+  height: 8vh;
+  margin: 10px 0 0 2rem;
+}
+.selectDropdown {
+  width: 10rem;
+  height: 3rem;
+  padding: 10px;
+}
+.displayButton {
+  width: 5rem;
+  height: 2rem;
+  border: 1px solid gray;
+  font-size: inherit;
+  margin-top: 14px;
+  border-radius: 5px;
+}
+.dataMainDiv {
+  background-color: #e3e3e3;
+  height: 92vh;
+}
+.displayMainData {
+  display: flex;
+  justify-content: space-between;
+}
+.WelcomePage {
+  text-align: center;
+}
